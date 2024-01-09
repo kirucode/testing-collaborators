@@ -1,1 +1,3 @@
 text ini dibuat di github
+
+menambahkan file baru dari vscode lokal
